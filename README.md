@@ -1,6 +1,8 @@
 # movieapp
 Discover Movies and TV shows
 
+# WORK IN PROGRESS
+This work is based on an example of Wix React Native Navigation. The api calling method will be replaced by fetchex, new theater finder screen, autocomplete and map are to be added.
 
 ![movieapp-screenshots_big_iphone_](https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png)
 
